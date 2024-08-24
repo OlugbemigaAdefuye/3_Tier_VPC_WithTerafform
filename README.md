@@ -48,9 +48,41 @@ This module involves the creation of a VPC,subnets, route tables, and essential 
 
 # **SCREENSHOTS**
 
-![image](https://github.com/user-attachments/assets/2136367b-1a67-4062-b019-f44b2ad66bab)
+ File Structure before Terraform Apply
+
+ ![image](https://github.com/user-attachments/assets/74609ddf-67b9-4168-8718-ddc4aa85159c)
+
+ 
+TERRFORM SUCESSFUL VPC CREATION
+
+![image](https://github.com/user-attachments/assets/f50c0c2e-5a2c-48bd-a256-2861438364fc)
+
+VPC CREATION
+
+![image](https://github.com/user-attachments/assets/55dae9ed-ae90-47eb-b9b1-58f1b4cabcab)
+
+SUBNET CREATION: 
+3 Tier
+Tier 1: 2 public subnets
+Tier 2: 2 private app subnets
+Tier 3: 2 private data subnets
+
+![image](https://github.com/user-attachments/assets/dddebc43-81f9-4f66-8c46-19ac31248aae)
+
+ROUTE TABLE ASSOCIATION:
+
+![image](https://github.com/user-attachments/assets/24ce08f3-9d01-49d8-b454-9584e908d462)
+
+GIT PUSH
+
+![image](https://github.com/user-attachments/assets/c09a1c53-7678-4346-a2d1-63348e5d358e)
 
 
-[Project1_3TierVPCArchitecture.pdf](https://github.com/user-attachments/files/16736333/Project1_3TierVPCArchitecture.pdf)
+![image](https://github.com/user-attachments/assets/ec8aaaf0-a95e-4076-9ad9-041c4ebcfcc7)
+
+
+
+
+
 
 

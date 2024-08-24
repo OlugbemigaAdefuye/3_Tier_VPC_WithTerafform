@@ -1,10 +1,10 @@
-#**Project Overview:**
+# **Project Overview:**
 
 In this project, I created a Terraform module for a 3-tier VPC architecture, enabling efficient and scalable deployment of networking
 resources on AWS. 
 This module involves the creation of a VPC,subnets, route tables, and essential outputs to facilitate modular and reusable infrastructure provisioning.
 
-##**Project Steps:**
+## **Project Steps:**
 
 1. Setting Up Terraform Module Structure:
 - Utilize Visual Studio Code to create a dedicated modules folder.
@@ -46,7 +46,7 @@ This module involves the creation of a VPC,subnets, route tables, and essential 
 - Initialize the AWS environment using 'terraform init' and create the VPC using 'terraform apply'
 
 
-#**SCREENSHOTS**
+# **SCREENSHOTS**
 
 
 

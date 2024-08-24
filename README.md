@@ -78,7 +78,6 @@ GIT PUSH
 ![image](https://github.com/user-attachments/assets/c09a1c53-7678-4346-a2d1-63348e5d358e)
 
 
-![image](https://github.com/user-attachments/assets/ec8aaaf0-a95e-4076-9ad9-041c4ebcfcc7)
 
 
 

@@ -48,5 +48,9 @@ This module involves the creation of a VPC,subnets, route tables, and essential 
 
 # **SCREENSHOTS**
 
+![image](https://github.com/user-attachments/assets/2136367b-1a67-4062-b019-f44b2ad66bab)
+
+
+[Project1_3TierVPCArchitecture.pdf](https://github.com/user-attachments/files/16736333/Project1_3TierVPCArchitecture.pdf)
 
 
